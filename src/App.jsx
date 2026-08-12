@@ -10,7 +10,7 @@ function App() {
   return (
    <div>
     <h1>Deployment App</h1>
-    <p>This is a s deployment app practice.</p>
+    <p>This is a deployment app practice.</p>
    </div>
   )
 }
